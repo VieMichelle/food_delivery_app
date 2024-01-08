@@ -29,7 +29,6 @@
 
 	<!-- Modules -->
 	<modules>
-		<module>java-path-spring-core</module>
 		<module>java-path-spring-app</module>
 	</modules>
 
